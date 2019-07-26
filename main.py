@@ -1,0 +1,10 @@
+questions = [
+    {
+        "question": "What is the largest organ?", 
+        "answer": "skin"
+    },
+    {
+        "question": "What planet do we live in?",
+        "answer": "Earth"
+    }
+]
